@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PushdownAutomaton", "PushdownAutomaton\PushdownAutomaton.csproj", "{798A7FFE-C4D9-4CFB-84A1-A05449E1F219}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PushdownAutomatonConsole", "PushdownAutomatonConsole\PushdownAutomatonConsole.csproj", "{7ADD0645-F46F-4EF6-B00A-85F0BB2A4865}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{798A7FFE-C4D9-4CFB-84A1-A05449E1F219}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{798A7FFE-C4D9-4CFB-84A1-A05449E1F219}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{798A7FFE-C4D9-4CFB-84A1-A05449E1F219}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{798A7FFE-C4D9-4CFB-84A1-A05449E1F219}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ADD0645-F46F-4EF6-B00A-85F0BB2A4865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ADD0645-F46F-4EF6-B00A-85F0BB2A4865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ADD0645-F46F-4EF6-B00A-85F0BB2A4865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ADD0645-F46F-4EF6-B00A-85F0BB2A4865}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {074F87F4-90B5-4E87-99A0-513D261F53C4}
+	EndGlobalSection
+EndGlobal
